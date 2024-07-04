@@ -51,4 +51,4 @@ Pyinstaller browser.py --onefile --noconsole
 
 ## License
 Apache License 2.0  
-(連絡なしでLicenseの範囲内で自由に使用できますが、気になるのでこれを改変したアプリ等を公開した場合は[Twitter(現X)](https://twitter.com\shiro_shihi)にてご連絡いただけると幸いです。)
+(連絡なしでLicenseの範囲内で自由に使用できますが、気になるのでこれを改変したアプリ等を公開した場合は[Twitter(現X)](https://twitter.com/shiro_shihi)にてご連絡いただけると幸いです。)
