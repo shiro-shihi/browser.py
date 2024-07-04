@@ -10,7 +10,7 @@ pull requests投げてくれれば多分対応します。
 
 |Modules|command|
 |:--:|:--:|
-|PyQt|`pip install PyQt`|
+|PyQt5|`pip install PyQt5`|
 |QtWebEngineWidgets|`pip install QtWebEngineWidgets`|
 
 > もしexeファイル化したいときは
